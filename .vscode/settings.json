@@ -9,8 +9,8 @@
     "python.testing.unittestArgs": [
         "-v",
         "-s",
-        "./greet",
+        "./calc",
         "-p",
-        "test*.py"
+        "*test*.py"
     ]
 }
